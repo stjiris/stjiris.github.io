@@ -20,3 +20,7 @@
 [model]: https://gitlab.com/diogoalmiro/iris-lfs-storage/
 
 ## Publicações
+
+Sem informações...
+
+Nota: Pedir para adicionar uma publicação no issue [#1](https://github.com/stjiris/stjiris.github.io/issues/1)
