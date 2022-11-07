@@ -10,10 +10,13 @@
 | Anonimizador (servidor) | [diogoalmiro/iris-anonimizador][anon-ser]    | [https://pe.inesc-id.pt/anon/](https://pe.inesc-id.pt/anon/)                | [~https://anon.stj.pt/~](https://anon.stj.pt/)   |
 | Sumarizador             | [MartimZanatti/IRISproject][sumar]           | [https://pe.inesc-id.pt/sumarizador/](https://pe.inesc-id.pt/sumarizador/)  | [~https://sum.stj.pt/~](https://sum.stj.pt/)     |
 | OCR                     | -                                            | [~https://pe.inesc-id.pt/ocr/~](https://pe.inesc-id.pt/ocr/)                | [~https://ocr.stj.pt/~](https://ocr.stj.pt/)     |
-| Modelos Treinados       | [gitlab:digooalmiro/iris-lfs-storage][model] | -                                                                           | -                                                |
+| Modelos Treinados       | [gitlab:digooalmiro/iris-lfs-storage][model] | - | - |
+| Modelos Treinados (Hugging Face) | [huggingface:stjiris](https://huggingface.co/stjiris) | - | - |
 
 [juris]: https://www.github.com/stjiris/jurisprudencia
 [anon-ser]: https://www.github.com/diogoalmiro/iris-anonimizador
 [anon-cli]: https://github.com/JDinis99/JurisPrudencia
 [sumar]: https://github.com/MartimZanatti/IRISproject
 [model]: https://gitlab.com/diogoalmiro/iris-lfs-storage/
+
+## Publicações
