@@ -11,6 +11,8 @@
 | OCR | - | | | |
 | Modelos Treinados | [gitlab:digooalmiro/iris-lfs-storage][model] | | | |
 | Modelos Treinados (Hugging Face) | [huggingface:stjiris](https://huggingface.co/stjiris) | | | |
+| Sistema de Pesquisa Semântico | [rufimelo99/SemanticSearchSystemForSTJ](https://github.com/rufimelo99/SemanticSearchSystemForSTJ) |https://rufimelo99.github.io/SemanticSearchSystemForSTJ | | | 
+
 
 [juris]: https://www.github.com/stjiris/jurisprudencia
 [anon-cli]: https://github.com/diogoalmiro/JurisPrudencia
