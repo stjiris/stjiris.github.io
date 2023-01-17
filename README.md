@@ -11,7 +11,6 @@
 | OCR | - | | | |
 | Modelos Treinados | [gitlab:digooalmiro/iris-lfs-storage][model] | | | |
 | Modelos Treinados (Hugging Face) | [huggingface:stjiris](https://huggingface.co/stjiris) | | | |
-| Sistema de Pesquisa Semântico | [rufimelo99/SemanticSearchSystemForSTJ](https://github.com/rufimelo99/SemanticSearchSystemForSTJ) |https://rufimelo99.github.io/SemanticSearchSystemForSTJ | | | 
 
 
 [juris]: https://www.github.com/stjiris/jurisprudencia
@@ -19,8 +18,8 @@
 [sumar]: https://github.com/MartimZanatti/IRISproject
 [model]: https://gitlab.com/diogoalmiro/iris-lfs-storage/
 
-## Publicações
+## Publicações*
 
-Sem informações...
+ - Rui Melo. _["A Semantic Search System For Supremo Tribunal de Justiça (Portuguese Supreme Court of Justice)"](https://rufimelo99.github.io/SemanticSearchSystemForSTJ)_. 2023.
 
-Nota: Pedir para adicionar uma publicação no issue [#1](https://github.com/stjiris/stjiris.github.io/issues/1)
+<sub>* Pedir para adicionar uma publicação no issue [#1](https://github.com/stjiris/stjiris.github.io/issues/1)</sub>
