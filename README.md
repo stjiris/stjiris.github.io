@@ -8,9 +8,9 @@
 | Jurisprudência | [stjiris/jurisprudencia][juris] | [iris.sysresearch.org/jurisprudencia/](https://iris.sysresearch.org/jurisprudencia/) | [https://juris.stj.pt/](https://juris.stj.pt/) |
 | Anonimizador  | [diogoalmiro/JurisPrudencia][anon-cli] | [iris.sysresearch.org/anon/](https://iris.sysresearch.org/anon/) | [https://anon.stj.pt/](https://anon.stj.pt/) |
 | Sumarizador | [MartimZanatti/IRISproject][sumar] | [iris.sysresearch.org/sumarizador/](https://iris.sysresearch.org/sumarizador/) | [https://sum.stj.pt/](https://sum.stj.pt/) |
-| OCR | - | | | |
-| Modelos Treinados | [gitlab:digooalmiro/iris-lfs-storage][model] | | | |
-| Modelos Treinados (Hugging Face) | [huggingface:stjiris](https://huggingface.co/stjiris) | | | |
+| OCR | - | | |
+| Modelos Treinados | [gitlab:digooalmiro/iris-lfs-storage][model] | | |
+| Modelos Treinados (Hugging Face) | [huggingface:stjiris](https://huggingface.co/stjiris) | | |
 
 
 [juris]: https://www.github.com/stjiris/jurisprudencia
