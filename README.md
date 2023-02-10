@@ -19,7 +19,7 @@
 
 | Nome | Repositório | Aplicação |
 |------|-------------|-----------|
-| Aplicação Windows para OCR | [Tesseract-UI-Tools/Tesseract-UI-Tools](https://www.github.com/tesseract-ui-tools/Tesseract-UI-Tools/) | [Tesseract UI Tools](https://tesseract-ui-tools.github.io/Tesseract-UI-Tools/)
+| IRIS OCR Desktop | [stjiris/ocr-desktop](https://www.github.com/stjiris/ocr-desktop/) | [IRIS OCR Desktop](https://stjiris.github.io/ocr-desktop/)
  
 ## Modelos Treinados
 
