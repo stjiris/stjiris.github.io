@@ -3,15 +3,15 @@
 
 ## Aplicações Web
 
-| Nome | Repositório | Servidor OVH | Servidor STJ |
-|------|-------------|--------------|--------------|
-| Jurisprudência | [stjiris/jurisprudencia][juris] | [iris.sysresearch.org/jurisprudencia/](https://iris.sysresearch.org/jurisprudencia/) | [https://juris.stj.pt/](https://juris.stj.pt/) |
-| Anonimizador  | [diogoalmiro/JurisPrudencia][anon-cli] | [iris.sysresearch.org/anon/](https://iris.sysresearch.org/anon/) | [https://anon.stj.pt/](https://anon.stj.pt/) |
-| Sumarizador | [MartimZanatti/IRISproject][sumar] | [iris.sysresearch.org/sumarizador/](https://iris.sysresearch.org/sumarizador/) | [https://sum.stj.pt/](https://sum.stj.pt/) |
-| OCR | [andrefpoliveira/Dissertacao-OCR][ocr] | [iris.sysresearch.org/ocr/](https://iris.sysresearch.org/ocr/) | |
+| Nome | Repositório | Servidor OVH |
+|------|-------------|--------------|
+| Jurisprudência | [stjiris/jurisprudencia][juris] | [iris.sysresearch.org/jurisprudencia/](https://iris.sysresearch.org/jurisprudencia/) |
+| Anonimizador  | [stjiris/anonimizador][anonimizador] | [iris.sysresearch.org/anonimizador/](https://iris.sysresearch.org/anonimizador) |
+| Sumarizador | [MartimZanatti/IRISproject][sumar] | [iris.sysresearch.org/sumarizador/](https://iris.sysresearch.org/sumarizador/) |
+| OCR | [andrefpoliveira/Dissertacao-OCR][ocr] | [iris.sysresearch.org/ocr/](https://iris.sysresearch.org/ocr/) |
 
 [juris]: https://www.github.com/stjiris/jurisprudencia
-[anon-cli]: https://github.com/diogoalmiro/JurisPrudencia
+[anonimizador]: https:///www.github.com/stjiris/anonimizador
 [sumar]: https://github.com/MartimZanatti/IRISproject
 [ocr]: https://github.com/andrefpoliveira/Dissertacao-OCR
 
