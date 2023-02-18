@@ -6,7 +6,7 @@
 | Nome | Repositório | Servidor OVH | Links Feedback/Dúvidas |
 |------|-------------|--------------|------------------------|
 | Jurisprudência | [stjiris/jurisprudencia][juris] | [iris.sysresearch.org/jurisprudencia/](https://iris.sysresearch.org/jurisprudencia/) | |
-| Anonimizador  | [stjiris/anonimizador][anonimizador] | [iris.sysresearch.org/anonimizador/](https://iris.sysresearch.org/anonimizador) | <ul><li>[Feedback interface](https://docs.google.com/document/d/17Y01auyh5d0ITHO2I4xwKbcF7VekWWk5uGk8KEeMwxM/edit)</li><li>[Feedback aos resultados das sugestões de anonimização (serviço remoto)](https://docs.google.com/document/d/1WsMpbbxlKZHpm_b5pjCDf8vibBnr6cFtDVdqIJutiVU/edit)</li></ul> |
+| Anonimizador  | [stjiris/anonimizador][anonimizador] | [iris.sysresearch.org/anonimizador/](https://iris.sysresearch.org/anonimizador) | - [Feedback interface](https://docs.google.com/document/d/17Y01auyh5d0ITHO2I4xwKbcF7VekWWk5uGk8KEeMwxM/edit)<br>- [Feedback aos resultados das sugestões de anonimização (serviço remoto)](https://docs.google.com/document/d/1WsMpbbxlKZHpm_b5pjCDf8vibBnr6cFtDVdqIJutiVU/edit) |
 | Sumarizador | [MartimZanatti/IRISproject][sumar] | [iris.sysresearch.org/sumarizador/](https://iris.sysresearch.org/sumarizador/) | |
 | OCR | [andrefpoliveira/Dissertacao-OCR][ocr] | [iris.sysresearch.org/ocr/](https://iris.sysresearch.org/ocr/) | [Feedback](https://docs.google.com/document/d/1wyTpTeG2w76XFcGeLfD5_t1_Cs03TE4qGSytkxYu05I/edit?usp=sharing) |
 
