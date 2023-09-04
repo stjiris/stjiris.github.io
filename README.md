@@ -31,3 +31,5 @@
  - Rui Melo. _["A Semantic Search System For Supremo Tribunal de Justiça (Portuguese Supreme Court of Justice)"](https://rufimelo99.github.io/SemanticSearchSystemForSTJ)_. 2023.
 
 <sub>Para adicionar uma publicação usar no issue [#1](https://github.com/stjiris/stjiris.github.io/issues/1)</sub>
+
+![Banner cofinanciamento, STJ e INESC-ID](stjiris-banner.png)
