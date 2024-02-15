@@ -5,15 +5,15 @@
 
 | Nome | Repositório | Servidor OVH |
 |------|-------------|--------------|
-| Jurisprudência | [stjiris/jurisprudencia][juris] | [iris.sysresearch.org/jurisprudencia/](https://iris.sysresearch.org/jurisprudencia/) |
-| Absiconditus (Anonimizador)  | [stjiris/anonimizador][anonimizador] | [iris.sysresearch.org/absiconditus/](https://iris.sysresearch.org/absconditus/) |
+| Jurisprudência | [stjiris/nextjs-jurisprudencia][juris] | [iris.sysresearch.org/jurisprudencia/](https://iris.sysresearch.org/jurisprudencia/) |
+| Absiconditus (Anonimizador)  | [stjiris/anonimizador][anonimizador] | [iris.sysresearch.org/anonimizador/](https://iris.sysresearch.org/anonimizador/) |
 | Sumarizador | [MartimZanatti/IRISproject][sumar] | [iris.sysresearch.org/sumarizador/](https://iris.sysresearch.org/sumarizador/) |
-| OCR | [andrefpoliveira/Dissertacao-OCR][ocr] | [iris.sysresearch.org/ocr/](https://iris.sysresearch.org/ocr/) |
+| OCR | [stjiris/OCR][ocr] | [iris.sysresearch.org/ocr/](https://iris.sysresearch.org/ocr/) |
 
-[juris]: https://www.github.com/stjiris/jurisprudencia
+[juris]: https://www.github.com/stjiris/nextjs-jurisprudencia
 [anonimizador]: https:///www.github.com/stjiris/anonimizador
 [sumar]: https://github.com/MartimZanatti/IRISproject
-[ocr]: https://github.com/andrefpoliveira/Dissertacao-OCR
+[ocr]: https://github.com/stjiris/OCR
 
 ## Applicações Desktop
 
